@@ -1,0 +1,10 @@
+data/
+results/
+__pycache__/
+*.pyc
+*.pt
+*.pth
+*.joblib
+*.npz
+.ipynb_checkpoints/
+.env
